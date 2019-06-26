@@ -1,3 +1,13 @@
+# github-user-finder
+This App is basically developed as a proof of Concept for implementation of hooks and Context API of React. This app searches the github user and show users github repos.
+
+I have used following terminologies of React 16.8:
+ 1. Hooks (useState, useReducer, useEffect, useContext).
+ 2. All Components are developed as Functional Components.
+ 3. Context API.
+
+In addition to this, we have used Github APIs to fetch the users from Github.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
